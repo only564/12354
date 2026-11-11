@@ -1,0 +1,14 @@
+**/BrowseInfo/
+**/Exe/
+**/Obj/
+**/List/
+**/DebugConfig/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.htm
+*.lst
+*.bak
